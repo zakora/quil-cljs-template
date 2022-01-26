@@ -1,0 +1,4 @@
+{:deps
+  {org.clojure/clojurescript {:mvn/version "1.10.758"}
+   quil/quil {:mvn/version "4.0.0-SNAPSHOT-1"}}
+ }
